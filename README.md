@@ -27,4 +27,4 @@ To learn more about Next.js, take a look at the following resources:
 
 - Read more on the [LangChain blog](https://blog.langchain.dev/langchain-chat/). 
 
-- Deployed at [chat.langchain.dev](https://chat.langchain.dev/). Feel free to reach out to [Zahid](https://twitter.com/chillzaza_) if you need anything!
+- Deployed at [chat.langchain.dev](https://chat.langchain.dev/). 
