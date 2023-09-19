@@ -1,4 +1,4 @@
-## LangChain Chat - Next.js
+## Chat Langchain Next.js
 
 ## Getting started 🚀
 
@@ -23,7 +23,7 @@ To learn more about Next.js, take a look at the following resources:
 
 ## 🦜🔗 Powered by LangChain
 
-- [LangChain](https://github.com/hwchase17/langchain/) backend implementation can be found [here](https://github.com/hwchase17/chat-langchain).
+- [LangChain](https://github.com/hwchase17/langchain/) backend implementation can be found [here](https://github.com/deverabit/Chat_Langchain_Next.js).
 
 - Read more on the [LangChain blog](https://blog.langchain.dev/langchain-chat/). 
 
