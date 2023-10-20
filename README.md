@@ -1,4 +1,3 @@
-## Chat Langchain Next.js
 
 ## Getting started 🚀
 
